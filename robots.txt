@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cjonesy.github.io/sitemap.xml
